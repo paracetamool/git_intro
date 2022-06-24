@@ -9,3 +9,4 @@ echo '- [Как сделать новый коммит](./commmit_help.md)' >> R
 echo '* Список всех коммитов показывает команда `git log`' >> log_help.md
 echo '- [Как просмотреть историю](./log_help.md)' >> README.md
 echo >> reset_help.md - [Как просмотреть историю](./log_help.md)
+- [Как вернуться к прошлой версии](./reset_help.md)
